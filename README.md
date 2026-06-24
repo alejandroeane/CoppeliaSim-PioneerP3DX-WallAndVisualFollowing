@@ -1,5 +1,5 @@
-# Actividad Aprendizaje Supervisado
-### Asignatura: Aprendizaje Automático I
+# Wall Following & Visual Servoing
+### Asignatura: Robótica
 Autores:
 - Alejandro Escorial Aparicio (alejandro.escorial@alumnos.upm.es)
 - Jose Ma (jose.ma@alumnos.upm.es)
